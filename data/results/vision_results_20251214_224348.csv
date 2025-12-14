@@ -1,0 +1,2 @@
+timestamp,image_path,point_step,rdp_ratio,draw_area_mm,pc_spec,n_raw_points,n_subsampled,n_simplified,vision_ms,mapping_rms_calib_mm,robot_gen_ms,robot_targets_created,mapping_rms_validation_mm,repeat_mean_px,repeat_std_px,overlay_image
+20251214_224348,..\data\webcam_capture.png,5,0.01,220,USER_FILL,3874,775,29,212.40870002657175,,655.159400019329,29,,6.133978311776647,4.027503737574169,..\data\results\overlay_20251214_224348.png

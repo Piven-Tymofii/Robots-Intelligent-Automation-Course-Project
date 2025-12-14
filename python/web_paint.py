@@ -13,7 +13,6 @@ IMAGE_PATH = "../data/webcam_capture.png"
 TABLE_FRAME_NAME = "table"         # name of frame in RoboDK
 DRAW_POSITION_NAME = "DrawBase"    # target in RoboDK
 ROBOT_NAME = "Motoman HP6"         # robot name in the tree
-
 DRAW_AREA_MM = 220                 # size of drawing square on the table (mm)
 Z_DRAW = 50                        # height above table to draw at (mm)
 POINT_STEP = 5                     # take every Nth point to reduce density
